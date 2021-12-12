@@ -38,7 +38,7 @@ To go back to the home page the user can select home in the navigation bar. If t
 
 ### Github User List:
 
-![Github User List](src/images/Home-search.png)
+![Github User List](src/images/Home-Search.png)
 
 ### Github User Page:
 
