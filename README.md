@@ -10,7 +10,7 @@
 
 ## Description
 
-GitHub Finder is an application where users can search GitHub user profiles and see there most recent projects
+GitHub Finder is a React application where users can search GitHub user profiles and see there most recent projects
 
 ## Usage
 
